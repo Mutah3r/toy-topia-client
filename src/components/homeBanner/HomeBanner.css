@@ -1,0 +1,7 @@
+.home-banner-container {
+    background: url('../../assets/others/home-cover.jpg'), linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0,0,0,0.7));
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    min-height: 100vh;
+}
